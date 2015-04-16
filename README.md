@@ -1,2 +1,2 @@
 # mygithubtest1
-My first test on github.
+Hi, this is my first test on github.
